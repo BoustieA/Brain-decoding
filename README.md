@@ -26,7 +26,7 @@ The scripts are therefore articulated around 3 main tasks :
 
 
 ## Results
- Phonolgy <space> <space> <space> <space> <space> <space>      Control
+ Phonolgy $~~~~~~~~~~~$      Control
 ![FMRI GBP](https://github.com/BoustieA/Brain-decoding/assets/124263630/b64c1280-3595-4d79-93d2-a4d5f472d62f)
 
 As higlighted in this pictures, the region are indeed involved in the related cognitve tasks.
