@@ -41,7 +41,7 @@ Especially when comparing to SVM.
 
 
 
-References
+## References
 Wang, X., Liang, X., Jiang, Z., Nguchu, B. A., Zhou, Y., Wang, Y., Wang, H., Li, Y., Zhu, Y., Wu, F., Gao, J.,
       & Qiu, B. (2020). Decoding and mapping task states of the human brain via deep learning. Human
 Brain Mapping, 41(6), 1505–1519. https://doi.org/10.1002/hbm.24891
