@@ -23,7 +23,7 @@ The scripts are therefore articulated around 3 main tasks :
 - Evaluating their performances
 - Analysis of the model choice (GBP)
 
-
+Data is coming from HCP S1200 Dataset for pretraining, selected task can be found in the  Wang et al., (2020) paper. The Data used for finetuning and the following pictures came from LPNC dataset which is not accessible.
 
 ## Results
 $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$  Phonolgy $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$      Control
